@@ -1,0 +1,69 @@
+Logical Operators
+
+   And Or Not
+   && || !
+   We use them when we have two or more conditions to test .
+  And
+  true && true=> true
+  true && false=> false
+  false && true=>false
+  false && false=>false
+
+
+  boolean sold=true;
+     boolean rain=true;
+
+     if(cold){
+     SOpln(" I will stay at home");
+
+     }
+
+
+
+  OR
+    true || true=> true
+    true || false=> true
+    false || true=>true
+    false || false=>false
+
+
+
+   boolean sold=true;
+   boolean rain=true;
+
+   if(cold){
+   SOpln(" I will stay at home");
+
+   }
+
+
+
+
+Switch Statement :
+
+is an alternative of  if else if
+
+syntax of switch statement
+
+switch (variable) {
+
+// value must be the same date type as variable
+
+case value1:
+    code A;
+    break;
+case value2:
+    code B;
+    break;
+default:
+    code C;
+    break;
+
+
+
+}
+
+
+
+
+Lopp
