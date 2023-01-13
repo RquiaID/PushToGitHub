@@ -59,11 +59,20 @@ default:
     code C;
     break;
 
-
-
 }
 
+-----------------------------------------------------------------------------------
 
 
+Loops
 
-Lopp
+ they repeat a block of code based on the condition
+ 4 loops in JAVA:
+ while => use when we don't know how may times you will repeat block of code
+
+ do while
+ for=> use when you know in advance how many times you will repeat block of code
+
+ for each/advanced for loop/enhanced for loop
+
+ ======> while is the most popular
